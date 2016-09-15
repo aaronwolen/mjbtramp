@@ -5,3 +5,5 @@ analysis/paper/Marwick_Hayes_et_al_files/
 analysis/paper/Marwick_Hayes_et_al_cache/
 *~*
 packrat/lib*/
+packrat/src
+
